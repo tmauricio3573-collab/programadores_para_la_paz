@@ -1,0 +1,50 @@
+Pregunta ·1
+¿Cuál es la función principal de la terminal en un sistema operativo?
+
+    A - Crear presentaciones
+    B - Ejecutar comandos para interactuar con el sistema
+    C - Navegar redes sociales
+    D - Diseñar páginas web
+
+Respuesta ·1
+
+    B - "Ejecutar comandos para interactuar con el sistema", aunque podemos realizar 
+    las otras opciones  estas se realizan con programas mas especificos.
+
+Pregunta ·2
+¿Qué hace el comando pwd?
+
+    A - Elimina archivos
+    B - Muestra la ubicación actual dentro del sistema de carpetas
+    C - Crea una nueva carpeta
+    D - Abre un navegador
+
+Respuesta ·2
+
+    B - "Muestra la ubicación actual dentro del sistema de carpetas"
+
+Pregunta ·3
+¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?
+
+    A - cd
+    B - mkdir
+    C - ls
+    D - git
+
+Respuesta ·3
+
+    C - "ls"  ya que este significa listar y no muestra todos los archivos y carpetas
+    de la ubicacion en la que nos encontramos.
+
+Pregunta ·4
+¿Cuál comando permite crear una carpeta nueva desde la terminal?
+
+    A - touch
+    B - mkdir
+    C - ls
+    D - pwd
+
+Respuesta ·4
+
+    B - "mkdir" es la opcion que nos permite crear la carpeta en nuestro repositorio atraves
+    de la consola de git.
