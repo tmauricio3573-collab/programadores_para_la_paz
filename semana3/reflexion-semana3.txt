@@ -1,0 +1,8 @@
+Registrar cambios de código con Git es esencial ya que actúa como una "máquina del tiempo", 
+asegurando la integridad del programa al archivar y almacenar cada modificación. 
+Esto permite a los programadores experimentar sin riesgo, pudiendo regresar a versiones 
+estables de inmediato. Además, Git facilita la colaboración entre múltiples programadores, 
+evitando pérdidas de trabajo por sobrescritura y organizando el flujo mediante ramas y fusiones, 
+en contraste con la confusión de la documentación manual. En última instancia, 
+estas herramientas enriquecen el producto final y transforman el historial de programación 
+en una documentación viva y confiable del desarrollo de la plataforma.

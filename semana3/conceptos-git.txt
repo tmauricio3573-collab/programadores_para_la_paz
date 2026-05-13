@@ -1,0 +1,13 @@
+·Conceptos:
+    . REPOSITORIO: Un repositorio es un espacio digital, como una carpeta en la nube, 
+        donde se almacena y organiza todo el código de un proyecto. Su función principal 
+        es rastrear cada cambio realizado, permitiendo que varios programadores colaboren 
+        sin borrar el trabajo de otros y puedan regresar a versiones anteriores si algo falla
+    . COMMIT: Un commit es como un "guardado" o una captura de pantalla del estado de tu código 
+        en un momento específico. Funciona como un punto de control en la historia de tu proyecto, 
+        permitiéndote registrar tus avances con un mensaje explicativo y volver a ese punto exacto 
+        si cometes un error más adelante
+    .PUSH: El comando push es la acción de subir tus cambios locales desde tu computadora 
+        hacia el servidor remoto (como GitHub). Sirve para sincronizar tu trabajo, permitiendo 
+        que otros miembros del equipo vean tus actualizaciones y que el proyecto principal 
+        se mantenga al día
