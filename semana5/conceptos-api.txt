@@ -1,0 +1,17 @@
+¿De qué trata esta ruta?
+La ruta recibe datos que envía el cliente mediante una petición 
+HTTP POST en la ruta /reporte. Captura el campo mensaje del 
+cuerpo (body) de la petición y responde al usuario con un 
+objeto JSON confirmando que ha recibido y devolviendo el mensaje 
+que ha enviado.
+
+¿Para qué se utiliza en una aplicación vecinal?
+Es importante para establecer comunicación bidireccional. 
+Permitiría a los vecinos hacer senderos de manera casi 
+en tiempo real, por ejemplo:
+
+    ° Reportar daños en las infraestructuras (baches, faroles quemados).
+
+    ° Dar avisos de seguridad o sobre posibles actividades delictivas.
+
+    ° Sugerir o quejarse para mejorar el bienestar del sector.

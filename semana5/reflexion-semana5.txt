@@ -1,0 +1,16 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, 
+reportes o alertas de manera organizada?
+
+Las APIs posibilitan la concepción del diseño de plataformas centralizadas 
+dedicadas a transmitir información en tiempo real, entre la ciudadanía 
+y las autoridades, al estandarizar el formato de la información mediante 
+el envío regular y automático de reportes a una base de datos común, 
+puesto que el caos informático desaparece. Ello, como consecuencia, 
+organiza las informaciones sobre los riesgos o necesidades en las 
+comunidades y permite la visualización de las mismas, incluso mediante 
+mapas dinámicos. Gracias al automatismo para validar y distribuir la 
+información sobre los avisos, las APIs disminuyen el tiempo que la 
+ciudadanía espera hasta recibir la respuesta institucional por parte de 
+las administraciones locales, fomentando así la exposición y el trabajo 
+en red, en la gestión de las crisis locales, y garantizando la colaboración 
+comunitaria independientemente de la tecnología que se aplique.
