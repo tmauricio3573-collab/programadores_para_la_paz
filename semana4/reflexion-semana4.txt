@@ -1,0 +1,7 @@
+La puesta en marcha de tecnología propia a través de plataformas abiertas como Node.js 
+permite a las comunidades crear sus propios programas con los que satisfacer sus propias 
+necesidades sin depender de ninguna corporación. El software libre promueve la revisión 
+y mejoras del código, integración de la seguridad y transparencia, así como reducción 
+de costes relacionados con la licencia. 
+Éste ofrece un cambio a los usuarios de consumidores a creadores de tecnología, 
+robusteciendo la autonomía y unidad de los colectivos y barrios.
