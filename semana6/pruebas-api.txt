@@ -1,5 +1,5 @@
 {
   "estado": "Datos recibidos",
-  "nombre": "Maria",
-  "mensaje": "Hola comunidad"
+  "nombre": "Angel",
+  "mensaje": "Hola mi gente"
 }
