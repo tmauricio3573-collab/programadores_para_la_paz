@@ -1,0 +1,23 @@
+MODELO DE DATOS: "Petición en 3 Clics"
+
+Entidad 1: Iniciativa
+Campos principales:
+- id (Identificador único - UUID)
+- titulo_causa (Texto, ej: "Iluminación del sendero peatonal sector norte")
+- ubicacion_afectada (Texto, dirección o referencia geográfica del barrio)
+- fecha_apertura (Fecha de registro de la iniciativa)
+- meta_respaldos (Entero, cantidad de firmas necesarias para activar la petición)
+
+Propósito:
+Almacenar los detalles de las solicitudes comunitarias activas para que los vecinos conozcan cuáles son las problemáticas prioritarias del barrio que necesitan su apoyo.
+
+
+Entidad 2: FirmaSoporte
+Campos principales:
+- id (Identificador único)
+- iniciativa_id (Llave foránea que asocia la firma con una Iniciativa específica)
+- codigo_usuario (Identificador anónimo o pseudónimo del firmante para proteger su identidad)
+- fecha_firma (Fecha exacta en la que se registró el apoyo)
+
+Propósito:
+Llevar un control confiable e incorruptible de los apoyos recibidos por cada iniciativa, permitiendo verificar que los respaldos son únicos sin almacenar datos de contacto vulnerables en esta tabla.

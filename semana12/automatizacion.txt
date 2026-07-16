@@ -1,0 +1,10 @@
+DISEÑO DE LA AUTOMATIZACIÓN (n8n + Telegram)
+
+1. ¿Qué evento activa la automatización?
+El momento exacto en que una iniciativa alcanza la meta total de respaldos configurados en el sistema (Trigger por cambio de estado a "Meta Alcanzada").
+
+2. ¿Qué mensaje se enviaría a Telegram?
+"¡Meta de firmas superada! La iniciativa de iluminación del sendero peatonal ha recolectado todos los apoyos de la comunidad. El documento PDF del derecho de petición ya ha sido generado por el sistema y está listo para ser descargado y radicado formalmente."
+
+3. ¿Qué información NO debe enviarse por seguridad?
+Bajo estrictas políticas de confidencialidad, no se enviarán nombres de los vecinos que respaldaron la causa, contraseñas de acceso, números de documentos de identificación ni correos electrónicos. Todo mensaje en Telegram se limitará exclusivamente a notificaciones de hitos generales sin contener información personal identificable.

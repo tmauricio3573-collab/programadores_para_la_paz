@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA: "Petición en 3 Clics - Senderos Seguros"
+
+1. Un líder comunitario o vecino crea una iniciativa detallando un sector oscuro o peligroso que requiere iluminación pública inmediata.
+2. La iniciativa se almacena de forma segura en la base de datos, asignándole un identificador único y un estado inicial "Activo".
+3. Otros habitantes del barrio ingresan a la plataforma, leen la descripción de la causa y registran su firma digital o respaldo formal mediante un solo clic.
+4. El sistema actualiza de manera progresiva y en tiempo real el contador acumulativo de firmas recolectadas para esa iniciativa específica.
+5. Al alcanzar el umbral de firmas establecido por la comunidad, el sistema consolida los datos y compila automáticamente un archivo formal en formato PDF con el radicado del derecho de petición listo para ser presentado ante la alcaldía local.
