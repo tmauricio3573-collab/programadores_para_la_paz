@@ -1,0 +1,13 @@
+La pantalla de identificación es la puerta del login que 
+asegura la identidad del usuario verificando las credenciales 
+seguras (la dirección de correo-contraseña) del mismo antes de 
+permitirle acceder al sistema.
+
+Es importante proteger algunas rutas porque las acciones delicadas 
+(editar el stock de las semillas, autorizar entregas y moderar comentarios) 
+nunca deben estar accesibles a un visitante accidental.
+
+Para proteger a la comunidad, nunca se puede exponer 
+públicamente la información privada: direcciones de domicilio de 
+los huertos familiares, números telefónicos, correos electrónicos 
+de miembros, contraseñas almacenadas.

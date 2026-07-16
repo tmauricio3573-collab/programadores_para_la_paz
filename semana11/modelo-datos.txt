@@ -1,0 +1,24 @@
+Entidad: Semilla
+
+Campos principales:
+- id (Identificador único - Autoincremental/UUID)
+- especie (Texto, ej: "Tomate Chonto", "Maíz Capio")
+- variedad (Texto, detalles de su origen geográfico)
+- stock_disponible (Entero, cantidad de paquetes de semillas listos para donar)
+- fecha_registro (Fecha de ingreso al banco)
+
+Propósito:
+Almacenar el inventario de semillas nativas y orgánicas disponibles en el huerto comunitario para que los vecinos las conozcan y soliciten.
+
+
+Entidad: Solicitud
+
+Campos principales:
+- id (Identificador único)
+- semilla_id (Relación externa con la entidad Semilla)
+- usuario_solicitante (Identificador del usuario que pide las semillas)
+- cantidad_solicitada (Entero)
+- estado_solicitud (Texto: "Pendiente", "Aprobada", "Entregada")
+
+Propósito:
+Llevar un control estricto de quién solicita qué semillas, asegurando un reparto equitativo entre todos los miembros de la comunidad.

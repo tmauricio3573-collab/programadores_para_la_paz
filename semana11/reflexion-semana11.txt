@@ -1,0 +1,27 @@
+La plataforma de participación ciudadana debe contar 
+necesariamente con bases de datos, autenticación y 
+protección de información, ya que estos tres elementos 
+son los pilares que sustenta la confianza comunitaria. 
+
+La base de datos es fundamental para estructurar y dar 
+persistencia a los aportes de los usuarios, de forma que 
+las ideas colectivas van dejando de ser temporales y empiezan 
+a ser organizadas y accesibles a través de formas remarcadas 
+en el control de las contribuciones colectivas. 
+
+La autenticación asegura, por su parte, que las interacciones 
+en la plataforma provienen realmente de personas, lo cual evita 
+la suplantación de identidad y garantiza que la información contenida 
+en las propuestas comunes no sea saboteada por una 
+proliferación de bots o usuarios malintencionados. 
+
+La protección de datos extrema asegura que los datos 
+sensibles de los ciudadanos no aparezcan en el entorno público, 
+de modo que su participación no los ponga a merced de 
+proveniencias no deseadas, exposición, represalias o acoso. 
+
+Diseñar tecnología con este nivel de responsabilidad social 
+no debería ser únicamente una obligación ético-política, 
+sino que es la única forma de poder construir un diseño de 
+tecnología digital segura, útil y que sea realmente adoptado 
+por el tejido social.

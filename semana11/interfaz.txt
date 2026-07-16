@@ -1,0 +1,6 @@
+La interfaz de usuario del "Banco de Semillas" constará de un diseño limpio dividido en las siguientes secciones:
+
+1. Formulario de registro de semillas: Un formulario exclusivo para administradores y donantes autorizados, donde se puede ingresar el nombre de la especie, descripción, origen y cantidad disponible.
+2. Catálogo de Semillas Disponibles: Una cuadrícula visual que muestra tarjetas individuales con la foto ilustrativa, nombre de la variedad de semilla y un contador en tiempo real del stock disponible.
+3. Botón de Solicitud de Intercambio: Cada tarjeta de semilla tendrá un botón interactivo etiquetado como "Solicitar Semillas" que, al ser pulsado, restará provisionalmente una unidad del stock y creará un registro de solicitud para el usuario autenticado.
+4. Panel Informativo de Impacto: Un pequeño contador global en la parte superior que muestra cuántos intercambios exitosos se han realizado en la comunidad sin revelar identidades individuales.
