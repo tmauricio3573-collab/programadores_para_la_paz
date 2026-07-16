@@ -1,0 +1,12 @@
+Comando 'uname -a': Muestra información detallada del sistema operativo, el nombre del host, la versión del kernel de Linux y la arquitectura del procesador (por ejemplo, x86_64).
+
+Comando 'whoami': Muestra el nombre del usuario actual que tiene la sesión activa en la terminal.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+
+Es fundamental porque permite saber si el sistema operativo y 
+el kernel están actualizados frente a vulnerabilidades de seguridad. 
+También ayuda a verificar que estemos operando con el usuario correcto 
+(y no como administrador/root por accidente) antes de ejecutar 
+comandos potencialmente destructivos o de instalar paquetes 
+compatibles con la arquitectura del servidor.

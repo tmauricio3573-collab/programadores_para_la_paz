@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios de la comunidad de forma pública.
+2. Proteger las credenciales utilizando gestores de contraseñas y autenticación de doble factor (2FA).
+3. Usar conexiones seguras (protocolos HTTPS y SSH) para interactuar con la plataforma.
+4. Registrar los accesos y mantener un historial de auditoría para detectar ingresos no autorizados.
+5. Limitar el acceso a información sensible, asignando roles y permisos específicos solo a quienes lo necesiten.
