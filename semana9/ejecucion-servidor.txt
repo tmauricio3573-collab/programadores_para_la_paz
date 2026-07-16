@@ -1,0 +1,12 @@
+1. ¿Qué ocurre cuando ejecutas "node server.js"?
+Al ejecutar el comando, la terminal se queda "escuchando" de forma activa y no devuelve el prompt de comandos. Esto significa que el proceso del servidor se mantiene en ejecución en primer plano.
+
+2. ¿Qué mensaje aparece en la terminal?
+Aparece el mensaje: "Servidor ejecutándose en puerto 3000".
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+El navegador realiza una solicitud GET al servidor y este responde con un objeto JSON que muestra el estado actual del servicio:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

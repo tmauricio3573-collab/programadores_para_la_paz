@@ -1,0 +1,14 @@
+Es fundamental que las plataformas tecnológicas comunitarias 
+funcionen de manera estable y segura en un servidor porque 
+de ello depende directamente la confianza y la participación 
+activa de los usuarios. Cuando un servicio digital se cae 
+o sufre vulnerabilidades, no solo se interrumpe el 
+acceso a herramientas importantes, sino que también 
+se expone la información privada de los miembros de la comunidad. 
+Un servidor bien configurado, que cuente con logs de auditoría 
+y monitoreo continuo, garantiza que la plataforma 
+esté disponible las 24 horas del día. Esto democratiza 
+el acceso a la información y protege el tejido social digital 
+contra posibles ataques externos. En conclusión, la estabilidad 
+de un servidor es el pilar técnico que sostiene la confiabilidad, 
+la inclusión y la seguridad de cualquier proyecto comunitario en la web.
