@@ -1,0 +1,4 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "La comunidad reporta que ultimamente mucho consumo de drogas en el parque."
+}
