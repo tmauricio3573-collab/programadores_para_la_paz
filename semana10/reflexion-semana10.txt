@@ -1,0 +1,21 @@
+Las metodologías ágiles, la automatización y 
+las herramientas de mensajería como Telegram 
+son imprescindibles para articular la participación 
+de las personas, ya que acortan de forma pronunciada 
+la brecha operativa de los procesos comunitarios: 
+el uso del backlog y de las iteraciones rápidas permite 
+a colectivos que no tienen recursos suficientes poner el 
+foco en entregar valor en poco tiempo y de forma priorizada, 
+evitando la frustración propia de gestionar planes faraónicos 
+que rara vez se llevan a buen término. Automatizar tareas 
+repetitivas con herramientas como n8n permite descolgar 
+del trabajo administrativo a los líderes sociales, 
+facilitando a su vez la coordinación de eventos o 
+moderaciones en la cumbre o sin esfuerzo manual. 
+Integrar canales de comunicación de uso cotidiano 
+como Telegram supone a la vez garantizar una distribución 
+democrática y transparente de la información y tener conectada 
+a la comunidad en sus teléfonos móviles sin que tengan que aprender 
+a usar sistemas de software complejos, lo que incrementa 
+las dosis de confianza y apropiación del proyecto y por tanto, 
+la sostenibilidad de cualquier iniciativa social.

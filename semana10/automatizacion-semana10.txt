@@ -1,0 +1,10 @@
+DISEÑO DEL FLUJO DE AUTOMATIZACIÓN (n8n + Telegram)
+
+1. ¿Qué evento activa el flujo?
+La inserción o registro exitoso de una nueva oferta de taller/servicio por parte de un vecino en el formulario de la plataforma (Trigger de nueva fila o documento).
+
+2. ¿Qué mensaje se enviaría a Telegram?
+"¡Nueva oferta de saber registrada! Un voluntario ha propuesto un nuevo taller en el Banco de Tiempo. Por favor, ingresa al panel de administración para revisarlo y publicarlo en la cartelera general."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Para proteger la privacidad de los participantes, bajo ninguna circunstancia se enviarán por Telegram: datos de contacto personales (número de teléfono o correo del voluntario), direcciones de domicilio exactas donde se dictará la clase, ni credenciales de acceso de los usuarios. Esta información confidencial se mantiene protegida dentro de la base de datos y solo es visible en la plataforma segura mediante autenticación.

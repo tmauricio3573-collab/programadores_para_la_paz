@@ -1,0 +1,5 @@
+HISTORIAS DE USUARIO (Ordenadas de mayor a menor trascendencia):
+1. [Prioridad Alta] Como ciudadano, quiero registrar una incidencia o reporte sobre el estado de una obra pública para dejar huella digital del caso con fotos y descripción.
+2. [Prioridad Alta] Como coordinador de veeduría, quiero recibir una alerta automática en Telegram cuando un ciudadano registre un nuevo reporte para poder validar rápidamente el seguimiento del mismo.
+3. [Prioridad Media] Como miembro del equipo de control, quiero consultar el listado de reportes activos en un panel de control para hacer seguimiento de los mismos y actualizar su estado.
+4. [Prioridad Baja] Como ciudadano afectado quiero recibir modificaciones cuando el estado de mi reporte cambie (ej. "En revisión" o "Resuelto") para saber que mi solicitud está siendo atendida.

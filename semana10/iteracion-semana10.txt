@@ -1,0 +1,18 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+    Tarea 1: Permitir al ciudadano que registre una incidencia con evidencia.
+    Tarea 2: Al recibir un nuevo informe, el sistema enviará una alerta automática a Telegram.
+
+2. ¿Por qué son las más importantes?
+    
+    Son las que constituyen el flujo básico de valor (Producto Mínimo Viable).
+    Sin el registro de la incidencia el sistema carece de información 
+    con la que trabajar, y sin la alerta inmediata se pierde la capacidad 
+    de reacción rápida y la coordinación de la comunidad. Las demás tareas 
+    dependen de que primero estas 2 funcionen.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+    Para que una tarea se considere completamente terminada debe cumplir con:
+    - El código funciona y no tiene errores en el entorno local.
+    - Se han realizado pruebas de extremo a extremo (registrar informe ficticio y verificar que se envía la alerta al canal).
+    - El código se ha subido y registrado correctamente en el Git con su respectivo commit.
