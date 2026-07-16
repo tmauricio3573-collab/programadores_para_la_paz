@@ -1,0 +1,6 @@
+Al realizar la consulta mediante la ruta GET en 
+http://localhost:3000/reportes, el servidor responde con un arreglo 
+en formato JSON que contiene el reporte previamente enviado a través 
+de la petición POST. Este reporte incluye un identificador 
+único generado dinámicamente ("id": 1), junto con el tipo de reporte 
+("Infraestructura") y su descripción correspondiente ("Daño en alumbrado público").
